@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @nickcernean
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+
+<a href="https://github.com/jstrieb/github-stats">
+<img src="https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+<img src="https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
+<img src="https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+<img src="https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+</a>
