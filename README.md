@@ -10,16 +10,18 @@
     <img src=https://img.icons8.com/color/35/null/twitter--v2.png alt=twitter style="margin: 10px;" />
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=nickcernean&style=flat-square&color=blue" alt="" align="center"/>
+<div id="profile_counter_badge" align="center">
+  <img src="https://komarev.com/ghpvc/?username=nickcernean&style=flat-square&color=blue" alt="" />
+</div>
 
 
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nickcernean&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td>
-  <td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickcernean&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table> 
+<table style="border-style: hidden;" align="center">
+  <tr>
+     <td valign="top" width="50%" >
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=nickcernean&theme=dark&background=000000" align="left" style="width: 100%"/>
+   </td>
+   <td valign="top" width="50%">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickcernean&layout=compact&theme=vision-friendly-dark" align="right" style="width: 100%" />  
+   </td>
+ </tr>
+</table> 
