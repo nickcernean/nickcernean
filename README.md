@@ -17,11 +17,11 @@
 
 <table style="border-style: hidden;" align="center">
   <tr>
-     <td valign="top" width="50%" >
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=nickcernean&theme=dark&background=000000" align="left" style="width: 100%"/>
+     <td valign="center" width="50%" >
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=nickcernean&theme=dark&background=000000" align="center" style="width: 100%"/>
    </td>
-   <td valign="top" width="50%">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickcernean&layout=compact&theme=vision-friendly-dark" align="right" style="width: 100%" />  
+   <td valign="center" width="50%">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickcernean&layout=compact&theme=vision-friendly-dark" align="center" style="width: 100%" />  
    </td>
  </tr>
 </table> 
