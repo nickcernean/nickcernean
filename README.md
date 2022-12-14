@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
 </div>
 <div id="social_icons" align="center">
   <a href="https://www.linkedin.com/in/nicolae-cernean/" target="_blank">
