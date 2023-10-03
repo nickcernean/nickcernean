@@ -1,3 +1,10 @@
+## Projects
+
+- [🤖 SEID Expense Tracker Environment](#-https://github.com/SEID-Environment-Project) _In Progress_
+- [💻 Rogelya Web App](#-https://rogelya-web-app.vercel.app/) _In Progress_
+- [🧩 Tetris Game](#-https://github.com/nickcernean/tetris_game.git) _In Progress_
+- [✅ Device Driver Generator](#-https://github.com/nickcernean/DriversGenerator.git) _Done_
+- [✅ Stochastic Models and Processes(SMP)](https://github.com/nickcernean/SMP_Exercises.git) _Done_
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
